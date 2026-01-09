@@ -14,11 +14,7 @@
 
 ---
 
-## 📖 Repository Purpose
-
-This repository contains a comprehensive implementation and theoretical explanation of **Chapter 11: Training Deep Neural Networks** from the book *"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"* by Aurélien Géron (O'Reilly).
-
-The goal is to:
+## 📖 The goal is to:
 - ✅ Reproduce all key concepts and code examples from the chapter
 - ✅ Provide detailed theoretical explanations for each technique
 - ✅ Demonstrate practical applications on real datasets
