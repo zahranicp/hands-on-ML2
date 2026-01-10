@@ -1,6 +1,3 @@
----
-
-```markdown
 # Custom Keras Subclassed Model (Keras 3 Compatible)
 
 ## 📌 Deskripsi Proyek
@@ -33,7 +30,7 @@ Proyek ini dirancang untuk:
 ## 🧠 Arsitektur Model
 Model menerima input berdimensi `INPUT_DIM` dan memiliki arsitektur:
 
-```
+
 
 Input (INPUT_DIM)
 ↓
