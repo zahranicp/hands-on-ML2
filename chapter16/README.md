@@ -204,9 +204,3 @@ Disusun untuk keperluan pembelajaran dan akademik.
 
 Proyek ini bersifat **open-use untuk edukasi**.
 Silakan dimodifikasi sesuai kebutuhan.
-
----
-
-✨ **Happy Coding & Semoga Lancar UAS-nya!** ✨
-
-```
